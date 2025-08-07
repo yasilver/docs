@@ -1,4 +1,8 @@
----
+---git clone https://github.com/GaiaNet-AI/gaianet-node.git
+cd gaianet-nodegit clone <your-clone-link>
+# orcd gaianet-node
+code . # Opens up the project in VSCode
+git clone https://github.com/<your-username>/gaianet-node.git
 sidebar_position: 2
 ---
 
